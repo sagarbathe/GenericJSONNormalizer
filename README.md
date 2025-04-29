@@ -1,6 +1,6 @@
 Generic JSON Normalizer
 
-This notebook is designed to efficiently parse and normalize any generic, nested JSON file. 
+This notebook is designed to parse and normalize any generic, nested JSON file. 
 It performs the following key operations:
 
 1. Normalization of Nested Structures: Each array or struct within the JSON is extracted into its own table. An artificial hash key is generated to serve as the primary key for each table.
