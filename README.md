@@ -1,4 +1,4 @@
-Generic JSON Normalizer
+Generic JSON Normalizer for Microsoft Fabric
 
 This notebook is designed to parse and normalize any generic, nested JSON file. 
 It performs the following key operations:
