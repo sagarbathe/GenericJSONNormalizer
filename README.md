@@ -1,6 +1,6 @@
 Generic JSON Normalizer for Microsoft Fabric
 
-This notebook is designed to parse and normalize any generic, nested JSON file. 
+This notebook is designed to parse and normalize any generic, nested JSON file within the Microsoft Fabric environment. While a sample JSON file is included for demonstration purposes, it is recommended to test with your own JSON files to ensure broader coverage of potential structures and edge cases.
 It performs the following key operations:
 
 1. Normalization of Nested Structures: Each array or struct within the JSON is extracted into its own table. An artificial hash key is generated to serve as the primary key for each table.
